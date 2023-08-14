@@ -1,0 +1,50 @@
+name: Content Error
+description: Report missing, out of date, or incorrect content
+labels: ["content", "triage"]
+assignees:
+  - anthonyronda
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this report!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: "What's wrong?"
+      description: Please explain the content error in clear detail, providing the location of the error and the location of the content in the PDF if available.
+      placeholder: |
+        In the Adventure Tables Journal Entry, the first table says that Owl Bears have six hit dice, but according to the PDF on page 213 they have HD 5.
+    validations:
+      required: true
+  - type: dropdown
+    id: package-id
+    attributes:
+      label: Which package?
+      description: Select the Necrotic Gnome product with this issue.
+      options:
+        - Advanced Fantasy
+        - Halls of the Blood King
+        - Holy Mountain Shaker
+        - The Hole in the Oak
+        - The Incandescent Grottoes
+        - The Isle of the Plangent Mage
+        - Winter's Daughter
+  - type: input
+    id: package-version
+    attributes:
+      label: Package Version
+      description: Which version of this package are you using?
+  - type: input
+    id: pdf-version
+    attributes:
+      label: PDF Version
+      description: If you are verifying your information against the official PDF, what version of the PDF are you using?
+  - type: checkboxes
+    id: code-of-conduct
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/vttred/.github/blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: "I agree to follow this project's Code of Conduct"
+          required: true
