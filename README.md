@@ -26,37 +26,12 @@ Check out the full selection of [Necrotic Gnome content for Foundry VTT](https:/
 
 ## Roadmap
 
-```mermaid
-classDef header fill:#f9f9f9,stroke:#333,stroke-width:2px;
-classDef row1 fill:#e6f7ff,stroke:#333,stroke-width:2px;
-classDef row2 fill:#f2f2f2,stroke:#333,stroke-width:2px;
-classDef row3 fill:#e6ffe6,stroke:#333,stroke-width:2px;
+| Product   | September | October | November |
+|----------|----------|----------|----------|
+|Advanced Fantasy|Sep 1: Fix issues introduced by V11.308 and other reported issues. Sep 18: Add page styling to journals|Leverage new features in the game system to be introduced this month, including new character progression data format|Leverage new features in the game system to be introduced this month, including item-based encumbrance|
+|Old-School Essentials Adventures|Sep 1: Fix issues introduced by V11.308 and other reported issues|Add page styling to journals|Leverage new features in the game system to be introduced this month, including item-based encumbrance|
+|Carcass Crawler|||Expected release|
 
-table
-  thead
-    tr
-      th[Title]::header
-      th[Column 1]::header
-      th[Column 2]::header
-      th[Column 3]::header
-      th[Column 4]::header
-  tbody
-    tr.class=row1
-      td[Row 1]::row1
-      td::row1
-      td::row1
-      td::row1
-    tr.class=row2
-      td[Row 2]::row2
-      td::row2
-      td::row2
-      td::row2
-    tr.class=row3
-      td[Row 3]::row3
-      td::row3
-      td::row3
-      td::row3
-```
 
 ## Troubleshooting and Requesting User Support
 
