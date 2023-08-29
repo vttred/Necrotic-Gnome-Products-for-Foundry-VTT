@@ -24,6 +24,40 @@ Check out the full selection of [Necrotic Gnome content for Foundry VTT](https:/
 
 - Stay tuned!
 
+## Roadmap
+
+```mermaid
+classDef header fill:#f9f9f9,stroke:#333,stroke-width:2px;
+classDef row1 fill:#e6f7ff,stroke:#333,stroke-width:2px;
+classDef row2 fill:#f2f2f2,stroke:#333,stroke-width:2px;
+classDef row3 fill:#e6ffe6,stroke:#333,stroke-width:2px;
+
+table
+  thead
+    tr
+      th[Title]::header
+      th[Column 1]::header
+      th[Column 2]::header
+      th[Column 3]::header
+      th[Column 4]::header
+  tbody
+    tr.class=row1
+      td[Row 1]::row1
+      td::row1
+      td::row1
+      td::row1
+    tr.class=row2
+      td[Row 2]::row2
+      td::row2
+      td::row2
+      td::row2
+    tr.class=row3
+      td[Row 3]::row3
+      td::row3
+      td::row3
+      td::row3
+```
+
 ## Troubleshooting and Requesting User Support
 
 It's always appreciated when users [submit an issue](issues) for all kinds of user questions, comments, and concerns. We also offer support for your purchase at customersupport@vtt.red. For those who prefer support via public chat, we recommend asking in:
