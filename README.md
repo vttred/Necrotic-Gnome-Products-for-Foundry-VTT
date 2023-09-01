@@ -28,7 +28,7 @@ Check out the full selection of [Necrotic Gnome content for Foundry VTT](https:/
 
 | Product   | September | October | November |
 |----------|----------|----------|----------|
-|Advanced Fantasy|Sep 1: Fix issues introduced by V11.308 and other reported issues. Sep 18: Add page styling to journals|Leverage new features in the game system to be introduced this month, including new character progression data format|Leverage new features in the game system to be introduced this month, including item-based encumbrance|
+|Advanced Fantasy|Sep 1: Fix issues introduced by V11.308 and other reported issues. Sep 18: Add page styling to journals|Leverage new features in the game system to be introduced this month, including new character progression data format. New token artwork, and new ways to apply your favorite token sets to the monster compendium.|Leverage new features in the game system to be introduced this month, including item-based encumbrance|
 |Old-School Essentials Adventures|Sep 1: Fix issues introduced by V11.308 and other reported issues|Add page styling to journals|Leverage new features in the game system to be introduced this month, including item-based encumbrance|
 |Carcass Crawler|||Expected release|
 
