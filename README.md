@@ -41,4 +41,4 @@ It's always appreciated when users [submit an issue](issues) for all kinds of us
 - The **#ose-virtual-tabletop** channel in the [Necrotic Gnome Fan Community Discord server](https://discord.gg/YprM5nq)
 - The **#dnd-other** channel in the [official Foundry VTT Discord server](https://discord.gg/foundryvtt)
 
-[issues]: https://github.com/vttred/Necrotic-Gnome-Products-for-Foundry-VTT/issues/new
+[issues]: https://github.com/vttred/Necrotic-Gnome-Products-for-Foundry-VTT/issues/new/choose
