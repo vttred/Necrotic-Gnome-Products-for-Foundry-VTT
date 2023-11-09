@@ -35,6 +35,9 @@ body:
         - The Incandescent Grottoes
         - The Isle of the Plangent Mage
         - "Winter's Daughter"
+        - Carcass Crawler Issue One
+        - Carcass Crawler Issue Two
+        - Carcass Crawler Issue Three
   - type: checkboxes
     id: code-of-conduct
     attributes:

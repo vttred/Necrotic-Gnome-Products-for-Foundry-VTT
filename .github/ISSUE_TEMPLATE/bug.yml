@@ -32,6 +32,9 @@ body:
         - The Incandescent Grottoes
         - The Isle of the Plangent Mage
         - Winter's Daughter
+        - Carcass Crawler Issue One
+        - Carcass Crawler Issue Two
+        - Carcass Crawler Issue Three
   - type: textarea
     id: expected-behaviour
     attributes:
